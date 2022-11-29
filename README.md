@@ -7,4 +7,4 @@
 
 #### Statistically significant connections were found between E-Mini, DJIA, TSE, and Shenzhen.
 
-#### This project uses an R markdown project which  outputs its plots as both standard plots, saved as png's, and plotly plots that are saved as html documents. 
+#### This project uses an R markdown project which  outputs its plots as standard plots. 
